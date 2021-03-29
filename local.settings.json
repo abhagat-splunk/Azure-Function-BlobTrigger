@@ -4,6 +4,6 @@
     "FUNCTIONS_WORKER_RUNTIME": "python",
     "splunkmscs_STORAGE": "<Insert-StorageAccount-Connection-String-here>",
     "splunkmscsdev_EVENTHUB": "<Insert-Eventhub-Connection-String-here>",
-    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=splunkmscs;AccountKey=ijjqzQTFXj8RdJ1Ob1QQaC3yM5sXVKvgmZn7n6DP6q5f5bo9wtvlEb873/LnlD1nNcoSRDLr5zn4Wr7PQnh38A==;EndpointSuffix=core.windows.net"
+    "AzureWebJobsStorage": ""
   }
 }
